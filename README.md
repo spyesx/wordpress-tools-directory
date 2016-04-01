@@ -20,8 +20,9 @@ A public list of plugins, themes, tips and more.
 ## Translations
 * [WPML](https://wpml.org/)
 
-## Access control
+## Users
 * [Members](https://wordpress.org/plugins/members/screenshots/)
+* [Profile Builder](https://wordpress.org/plugins/profile-builder/screenshots/)
 
 ## Forms
 * [Formidable](https://fr.wordpress.org/plugins/formidable/)
@@ -36,3 +37,9 @@ A public list of plugins, themes, tips and more.
 ## Mails
 * [Mailchimp](https://wordpress.org/plugins/mailchimp-for-wp)
 * [Easy Forms for MailChimp](https://wordpress.org/plugins/yikes-inc-easy-mailchimp-extender/)
+
+## Edition
+* [Duplicate post](https://wordpress.org/plugins/duplicate-post/)
+
+## Medias
+* [Enhanced Media Library](https://wordpress.org/plugins/enhanced-media-library/screenshots/)
