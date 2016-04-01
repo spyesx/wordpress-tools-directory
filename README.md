@@ -46,3 +46,10 @@ A public list of plugins, themes, tips and more.
 
 ## SEO
 * [Wordpress SEO](https://wordpress.org/plugins/wordpress-seo/)
+
+## Misc
+* [WP Control](https://wordpress.org/plugins/wp-crontrol)
+
+## Money
+* [Restrict Content Pro](https://restrictcontentpro.com/)
+* [WooCommerce](https://www.woothemes.com/woocommerce/)
