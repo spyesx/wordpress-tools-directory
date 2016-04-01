@@ -43,3 +43,6 @@ A public list of plugins, themes, tips and more.
 
 ## Medias
 * [Enhanced Media Library](https://wordpress.org/plugins/enhanced-media-library/screenshots/)
+
+## SEO
+* [Wordpress SEO](https://wordpress.org/plugins/wordpress-seo/)
