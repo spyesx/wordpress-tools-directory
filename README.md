@@ -18,7 +18,7 @@ A public list of plugins, themes, tips and more.
 
 
 ## Translations
-* [WPML](ttps://wpml.org/)
+* [WPML](https://wpml.org/)
 
 ## Access control
 * [Members](https://wordpress.org/plugins/members/screenshots/)
