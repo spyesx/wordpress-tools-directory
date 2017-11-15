@@ -22,6 +22,7 @@ A public list of plugins, themes, tips and more.
 
 ## Translations
 * [WPML](https://wpml.org/)
+* [Polylang](https://wordpress.org/plugins/polylang/)
 
 ## Users
 * [Members](https://wordpress.org/plugins/members/screenshots/)
