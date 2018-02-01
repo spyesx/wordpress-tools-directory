@@ -62,3 +62,6 @@ A public list of plugins, themes, tips and more.
 * [Access watch](https://wordpress.org/plugins/access-watch/)
 * [Better WP Security](https://tah.wordpress.org/plugins/better-wp-security/)
 * [Sucuri Scanner](https://wordpress.org/plugins/sucuri-scanner/)
+
+## Search and filters
+* [FacetWP](https://facetwp.com)
