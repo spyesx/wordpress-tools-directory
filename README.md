@@ -12,6 +12,7 @@ A public list of plugins, themes, tips and more.
 ### Custom fields
 * [ACF](https://www.advancedcustomfields.com/)
 * [ACF addons](https://www.advancedcustomfields.com/add-ons/options-page/)
+* [ACF Local JSON](https://www.advancedcustomfields.com/resources/local-json/)
 * [WP Types](https://wp-types.com)
 
 ### Custom Post Types
