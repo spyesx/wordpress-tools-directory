@@ -15,6 +15,9 @@ A public list of plugins, themes, tips and more.
 * [ACF Local JSON](https://www.advancedcustomfields.com/resources/local-json/)
 * [WP Types](https://wp-types.com)
 
+### Search
+* [Algolia](https://community.algolia.com/wordpress/) with [ACF integration](https://community.algolia.com/wordpress/advanced-custom-fields.html)
+
 ### Custom Post Types
 * [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/)
 * [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/)
